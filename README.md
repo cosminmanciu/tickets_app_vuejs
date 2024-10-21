@@ -5,7 +5,7 @@
 - Vue 2
 ## Features
 - CRUD APP for Ticketing 
-Contains Auth (Registe, Login), Dashboard, Tickets, Events and Organizers
+Contains Auth (Register, Login), Dashboard, Tickets, Events and Organizers
 ## How to run the project
 
 - Open git terminal
